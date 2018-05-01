@@ -1,23 +1,25 @@
 #headerDiv {
-	
-
-
+	color: #e37c3a;
+	line-height: 50px;
+	font-family: 'Eagle Lake', cursive;
+	margin-top: 20px;
 }
-
 
 #gridContainer {
-	width: 80%;
-	bottom: 5%;
-	border: 3px solid black; 
-	
-
+	background-color: #d22b2b;
+	margin: 50px auto;
+	width: 800px;
+	height: 900px;
+	border-radius: 40px;
+	text-align: center;
+	padding: 20px; 
 }
-
 
 
 .floating-box {
 	float: left;
-    width: 20px;
-    height: 20px;
-    border: 1px solid #73AD21; 
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+	background-color: white;
 }
