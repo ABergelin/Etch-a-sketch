@@ -3,6 +3,7 @@
 	line-height: 50px;
 	font-family: 'Eagle Lake', cursive;
 	margin-top: 20px;
+	text-align: center;
 }
 
 #gridContainer {
@@ -20,6 +21,6 @@
 	float: left;
     width: 40px;
     height: 40px;
-    border: 1px solid black;
+    border: 1px dotted black;
 	background-color: white;
 }
